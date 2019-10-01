@@ -1,5 +1,5 @@
 # FA19_UCSDCareerFair
-Career fair related info
+Career fair related info for anyone who is interested.
 
 Updates:
 
